@@ -31,10 +31,11 @@ li {
 }
 
 #box { background-color: white;
-		height: 900px;
+		height: 1080px;
 		width: 800px;
 		text-align: center;
 		margin: 0 auto 0 auto;
+
 
 
 }
@@ -56,12 +57,37 @@ li {
 
 .reg { 	position: absolute;
 	top: 50px;
-	left: 580px;
+	left: 560px;
 	font-size: 18px;
+	text-align: justify;
 }
 
 .top-left {	
 			display: inline;
 			float: left;
 			padding: 0px 8px;
+}
+
+.left { 
+		float: left;
+		display: inline;
+		padding: 4px 4px;
+}
+
+.right {
+		float: right;
+		display: inline;
+		padding: 4px 4px;
+}
+
+.lefti 	{
+		float: left;
+		display: inline;
+		padding: 4px 4px;
+}
+
+.righti { 
+		float: right;
+		display: inline;
+		padding: 4px 4px; 
 }
